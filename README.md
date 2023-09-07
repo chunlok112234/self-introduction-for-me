@@ -1,6 +1,6 @@
 # This is my first public project for self introduction
 
-It is too simple right now. I would add some small tools as my demo.
+It is too simple as my demo page right now. I would add some small tools as my demo.
 
 ## Available Scripts
 
